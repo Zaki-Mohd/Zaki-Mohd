@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm Full Stack developer
+Hey there! I’m Zaki Mohd 🚀
+
+- Enthusiastic about Frontend & Backend development  
+- Exploring Next.js, React, Node.js, and modern web tools  
+- Open-source contributor & lifelong learner  
+
+I share my projects, experiments, and tutorials here on GitHub. Let’s connect and build cool stuff together!  
+
 
 
 ## 🌐 Socials:
