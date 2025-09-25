@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hey there! I’m Zaki Mohd 🚀
 
 - Enthusiastic about Frontend & Backend development  
