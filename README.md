@@ -13,8 +13,7 @@ I share my projects, experiments, and tutorials here on GitHub. Let’s connect 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zakiiiiiiiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-zaki-502b83240) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adnan_zakii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakimohammad9819@gmail.com) 
 
 
-Check out my inspiration board: ![My Pinterest Image](https://i.pinimg.com/originals/xx/yy/zzzzzz.jpg)
-
+![](https://i.pinimg.com/1200x/62/02/60/6202604a5183f64600f4068e354f302c.jpg)
 
 
 # 💻 Tech Stack:
