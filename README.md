@@ -20,7 +20,7 @@ Let’s connect and build something amazing together! 🌟
 
 ---
 
-![Divider](https://i.pinimg.com/1200x/62/02/60/6202604a5183f64600f4068e354f302c.jpg)
+![](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 ---
 
