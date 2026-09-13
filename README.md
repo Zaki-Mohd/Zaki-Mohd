@@ -52,22 +52,5 @@ Let’s connect and build something amazing together! 🌟
 ## 🪶 Holopin Badges
 [![](https://holopin.me/zakimohd)](https://holopin.io/@zakimohd)
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Zaki-Mohd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Zaki-Mohd&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Mohd&theme=dark&hide_border=false&layout=compact)
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Zaki-Mohd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Zaki-Mohd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Created with ❤️ by Zaki Mohd | Generated using GPRM (https://gprm.itsvg.in) -->
 
 </div>
